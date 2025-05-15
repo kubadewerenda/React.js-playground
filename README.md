@@ -1,6 +1,6 @@
 # 📚 Small React Projects
 
-A collection of small React-based projects created during my journey of learning and exploring the React framework. Each project focuses on a specific concept, feature, or use case — from component design and hooks to routing and API integration.
+A collection of small React-based projects created during my journey of learning and exploring the React framework. Each project focuses on a specific concept, feature, or use case — from example component design and hooks.
 
 These projects are intended both as practical exercises and as a reference for others starting with React.
 
